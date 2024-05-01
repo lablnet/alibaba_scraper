@@ -1,4 +1,5 @@
 # Alibaba Scraper
+This is a robust web scraper that extracts data from the Alibaba website. It's multi-threaded and utilizes Playwright to efficiently scrape data from the website. This script is capable of scraping the entire Alibaba site, which would take approximately 4-6 months to complete.
 
 ### Installation.
 - Clone the repository.
