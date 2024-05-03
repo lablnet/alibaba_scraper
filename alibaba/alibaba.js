@@ -1,4 +1,4 @@
-const { getBrowser, navigate, getData, elem, click, _wait} = require('../helper/scrapper.js');
+const { getBrowser, navigate, getData, elem, click, _wait} = require('../helper/scraper.js');
 const { addOrUpdateRecord, checkRecordExists } = require('../helper/dynamodb');
 const { customLog } = require('../helper/log');
 const fs = require('fs');
